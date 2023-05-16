@@ -9,11 +9,17 @@ The current manual system of managing a canteen involves several inefficiencies 
 Functional requirements:
 
 Registration and Login system
+
 Menu and Ordering system
+
 Admin Portal 
+
 Cart System 
+
 Order Checkout system 
+
 Payment System 
+
 Feedback System
 
 Technologies Used:
