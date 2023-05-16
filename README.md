@@ -64,6 +64,7 @@ Order Confirmation Screen:
 ![image11](https://github.com/HS-pro/Canteen-Management-System/assets/73381413/e101f15d-ca45-438c-a748-7e8869ff5a74)
 
 Conclusion:
+
 The canteen automation system project has successfully addressed the challenges faced in our college's canteen, significantly improving the efficiency and customer experience. By leveraging a mobile application developed using React Native and integrated with Firebase, the project has streamlined the food ordering process, reduced wait times, and minimized errors.
 
 
