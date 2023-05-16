@@ -6,29 +6,18 @@ Problem Definition:
 The current manual system of managing a canteen involves several inefficiencies such as long waiting lines, errors in order taking. Additionally, the manual system is time-consuming and labor-intensive, which results in increased costs and reduced profits. Users of the canteen management system can register online, read, and choose food items from an electronic menu card, and place orders online by simply choosing and ordering the food they wish to eat using an Android application. The canteen management system aims to provide an efficient and convenient method of managing orders and sales, reducing waiting times, minimizing errors, and increasing profitability.
 
 
-Functional requirements:
-
-Registration and Login system
-
-Menu and Ordering system
-
-Admin Portal 
-
-Cart System 
-
-Order Checkout system 
-
-Payment System 
-
-Feedback System
-
 Technologies Used:
 
 User interface: Whimsical
+
 Front end development: React- Native
+
 Backend: Node js
+
 Database: Firebase
+
 Payment Gateway: Razorpay
+<br><br>
 
 Splash Screen:
 
@@ -69,7 +58,7 @@ Payment Screen:
 Order Confirmation Screen:
 
 ![image11](https://github.com/HS-pro/Canteen-Management-System/assets/73381413/e101f15d-ca45-438c-a748-7e8869ff5a74)
-
+<br><br>
 Conclusion:
 
 The canteen automation system project has successfully addressed the challenges faced in our college's canteen, significantly improving the efficiency and customer experience. By leveraging a mobile application developed using React Native and integrated with Firebase, the project has streamlined the food ordering process, reduced wait times, and minimized errors.
